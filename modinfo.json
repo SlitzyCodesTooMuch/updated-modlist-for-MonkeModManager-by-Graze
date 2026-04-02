@@ -161,9 +161,9 @@
     "author": "Graze",
     "version": "1.0.0",
     "dependencies": ["BepInEx"],
-    "git_path": "The-Graze/CosmeticNames",
+    "git_path": "SlitzyCodesTooMuch/Cosmetic-Names",
     "group": "Tweaks / Tools",
-    "download_url": "https://github.com/The-Graze/CosmeticNames/releases/latest/download/CosmeticNames.dll"
+    "download_url": "https://github.com/SlitzyCodesTooMuch/Cosmetic-Names/releases/download/Archived/CosmeticNames.dll"
   },
   {
     "name": "GorillaRichPresence",
