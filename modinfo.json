@@ -1,0 +1,10 @@
+[
+  {
+    "name": "Test Mod",
+    "author": "Slitzy",
+    "version": "1.0.0",
+    "downloadLink": "https://example.com/mod.dll",
+    "description": "This is a test mod",
+    "group": "General"
+  }
+]
