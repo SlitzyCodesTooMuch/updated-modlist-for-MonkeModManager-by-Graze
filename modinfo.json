@@ -120,13 +120,13 @@
     "download_url": "https://github.com/BepInEx/BepInEx.ConfigurationManager/releases/latest/download/BepInEx.ConfigurationManager_BepInEx5_v18.4.1.zip"
   },
   {
-    "name": "CosmeticsLoadingBar",
+    "name": "CosmeticsLoadingBar [ARCHIVED]",
     "author": "Graze",
     "version": "1.0.0",
     "dependencies": ["BepInEx"],
-    "git_path": "The-Graze/CosmeticsLoadingBar",
+    "git_path": "SlitzyCodesTooMuch/Cosmetic-Loading-Bar-ARCHIVE-",
     "group": "Tweaks / Tools",
-    "download_url": "https://github.com/The-Graze/CosmeticsLoadingBar/releases/latest/download/CosmeticsLoadingBar.dll"
+    "download_url": "https://github.com/SlitzyCodesTooMuch/Cosmetic-Loading-Bar-ARCHIVE-/releases/download/Archived/CosmeticsLoadingBar.dll"
   },
   {
     "name": "HoneyLib",
