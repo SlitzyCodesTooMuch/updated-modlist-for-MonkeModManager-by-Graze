@@ -72,4 +72,60 @@
     "group": "Tweaks / Tools",
     "download_url": "https://github.com/developer9998/GorillaInfoWatch/releases/latest/download/GorillaInfoWatch.dll"
   },
+  {
+    "name": "BetterMirror",
+    "author": "Graze",
+    "version": "3.4",
+    "dependencies": ["BepInEx"],
+    "git_path": "The-Graze/BetterMirror",
+    "group": "Cosmetic",
+    "download_url": "https://github.com/The-Graze/BetterMirror/releases/latest/download/BetterMirror.dll"
+  },
+  {
+    "name": "Extenject",
+    "author": "svermeulen",
+    "version": "1.0.1",
+    "dependencies": ["Bepinject", "BepInEx"],
+    "install_location": "BepInEx/plugins",
+    "git_path": "Auros/Bepinject",
+    "group": "Libraries",
+    "download_url": "https://github.com/Auros/Bepinject/releases/latest/download/Extenject.zip"
+  },
+  {
+    "name": "Bepinject",
+    "author": "Auros",
+    "version": "1.0.1",
+    "dependencies": ["Extenject", "BepInEx"],
+    "install_location": "BepInEx/plugins",
+    "git_path": "Auros/Bepinject",
+    "group": "Libraries",
+    "download_url": "https://github.com/Auros/Bepinject/releases/latest/download/Bepinject-Auros.zip"
+  },
+  {
+    "name": "Mono-Sandbox-Mod",
+    "author": "Mono/Dev",
+    "version": "1.2.3",
+    "dependencies": ["BepInEx"],
+    "git_path": "developer9998/Mono-Sandbox-Mod",
+    "group": "Gameplay",
+    "download_url": "https://github.com/developer9998/Mono-Sandbox-Mod/releases/latest/download/MonoSandbox.dll"
+  },
+  {
+    "name": "ConfigurationManager",
+    "author": "BepInEx",
+    "version": "18.4.1",
+    "dependencies": ["BepInEx"],
+    "git_path": "BepInEx/BepInEx.ConfigurationManager",
+    "group": "Core",
+    "download_url": "https://github.com/BepInEx/BepInEx.ConfigurationManager/releases/latest/download/BepInEx.ConfigurationManager_BepInEx5_v18.4.1.zip"
+  },
+  {
+    "name": "CosmeticsLoadingBar",
+    "author": "Graze",
+    "version": "1.0.0",
+    "dependencies": ["BepInEx"],
+    "git_path": "The-Graze/CosmeticsLoadingBar",
+    "group": "Tweaks / Tools",
+    "download_url": "https://github.com/The-Graze/CosmeticsLoadingBar/releases/latest/download/CosmeticsLoadingBar.dll"
+  },
 ]
