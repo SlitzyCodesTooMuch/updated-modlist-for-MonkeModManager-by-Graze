@@ -147,4 +147,32 @@
     "group": "Tweaks / Tools",
     "download_url": "https://github.com/SlitzyCodesTooMuch/Computer-Interface/releases/download/C%23/Computer.Interface.zip"
   },
+  {
+    "name": "OculusReportMenu",
+    "author": "Bingus",
+    "version": "2.3.1",
+    "dependencies": ["BepInEx"],
+    "git_path": "sirkingbinx/OculusReportMenu",
+    "group": "Tweaks / Tools",
+    "download_url": "https://github.com/sirkingbinx/OculusReportMenu/releases/latest/download/OculusReportMenu.dll"
+  },
+  {
+    "name": "CosmeticNames",
+    "author": "Graze",
+    "version": "1.0.0",
+    "dependencies": ["BepInEx"],
+    "git_path": "The-Graze/CosmeticNames",
+    "group": "Tweaks / Tools",
+    "download_url": "https://github.com/The-Graze/CosmeticNames/releases/latest/download/CosmeticNames.dll"
+  },
+  {
+    "name": "GorillaRichPresence",
+    "author": "developer9998",
+    "version": "1.0.0",
+    "dependencies": ["GorillaInfoWatch", "BepInEx"],
+    "git_path": "developer9998/GorillaRichPresence",
+    "install_location": "",
+    "group": "Cosmetic",
+    "download_url": "https://github.com/developer9998/GorillaRichPresence/releases/latest/download/GorillaRichPresence.zip"
+  },
 ]
