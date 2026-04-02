@@ -1,9 +1,9 @@
 [
   {
-    "name": "DownloadURL",
+    "name": "Utilla",
     "author": "Developer9998",
     "version": "1.6.27",
-    "DownloadURL": "https://github.com/developer9998/Utilla-BepInEx/releases/download/1.6.27/Utilla.dll",
+    "download_url": "https://github.com/developer9998/Utilla-BepInEx/releases/download/1.6.27/Utilla.dll",
     "description": "Allows you to switch to modded lobbies! NOTE: This was last updated in Febuary 2026, we do not know if this still works.",
     "group": "General"
   },
@@ -11,7 +11,7 @@
     "name": "Gorilla Optimizer",
     "author": "sevvy-wevvy",
     "version": "1.1.0",
-    "downloadLink": "https://github.com/sevvy-wevvy/Gorilla-Optimizer/releases/download/1.1.0/GorillaOptimizer.dll",
+    "download_url": "https://github.com/sevvy-wevvy/Gorilla-Optimizer/releases/download/1.1.0/GorillaOptimizer.dll",
     "description": "A optimization mod for Gorilla Tag to make the game smoother with lots of configuration. NOTE: This was last updated in ",
     "group": "General"
   },
@@ -19,7 +19,7 @@
     "name": "GorillaShirts",
     "author": "Developer9998",
     "version": "2.4.5",
-    "downloadLink": "https://github.com/developer9998/GorillaShirts/releases/download/2.4.5/GorillaShirts.dll",
+    "download_url": "https://github.com/developer9998/GorillaShirts/releases/download/2.4.5/GorillaShirts.dll",
     "description": "GorillaShirts is the leading custom cosmetic mod for Gorilla Tag. The mod has been universally acclaimed by viewers, modders, and content creators alike since it's early access release and public launch during 2023.",
     "group": "General"
   }
