@@ -211,4 +211,42 @@
     "group": "Shirt",
     "download_url": "https://cdn.discordapp.com/attachments/1483560660125220934/1483560811837263953/4AAC_Supporter.shirt?ex=69d0c9ec&is=69cf786c&hm=21131856afd8adef391a93773611de48911ea0b96fbe5c0d0e065023993d4346&"
   },
+  {
+    "name": "Skull Mask",
+    "author": "TitaniumGT",
+    "version": "1.0.0",
+    "dependencies": ["BepInEx", "Gorilla Shirts"],
+    "install_location": "BepInEx/plugins/GorillaShirts",
+    "group": "Shirt",
+    "download_url": "https://github.com/titaniumGT/Skull-Mask/releases/download/ttt/Skull.Mask.Hat.zip"
+  },
+  {
+    "name": "Skull Mask",
+    "author": "TitaniumGT",
+    "version": "1.0.0",
+    "dependencies": ["BepInEx", "Gorilla Shirts"],
+    "git_path": "titaniumGT/Skull-Mask",
+    "install_location": "BepInEx/plugins/GorillaShirts",
+    "group": "Shirt",
+    "download_url": "https://github.com/titaniumGT/Skull-Mask/releases/download/ttt/Skull.Mask.Hat.zip"
+  },
+  {
+    "name": "Scary Mask",
+    "author": "TitaniumGT",
+    "version": "1.0.0",
+    "dependencies": ["BepInEx", "Gorilla Shirts"],
+        "git_path": "titaniumGT/Scary-Mask",
+    "install_location": "BepInEx/plugins/GorillaShirts",
+    "group": "Shirt",
+    "download_url": "https://github.com/titaniumGT/Scary-Mask/releases/download/v1.0.0/Scary.Mask.zip"
+  },
+  {
+    "name": "Joker Mask",
+    "author": "TitaniumGT",
+    "version": "1.0.0",
+    "dependencies": ["BepInEx", "Gorilla Shirts"],
+    "install_location": "BepInEx/plugins/GorillaShirts",
+    "group": "Shirt",
+    "download_url": "https://github.com/titaniumGT/Scary-Mask/releases/download/v1.0.0/Scary.Mask.zip"
+  },
 ]
