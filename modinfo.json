@@ -175,4 +175,13 @@
     "group": "Cosmetic",
     "download_url": "https://github.com/developer9998/GorillaRichPresence/releases/latest/download/GorillaRichPresence.zip"
   },
+  {
+    "name": "Bark [updated]",
+    "author": "developer9998",
+    "version": "1.5.2",
+    "dependencies": ["BepInEx", "Utilla"],
+    "git_path": "developer9998/Bark",
+    "group": "Gameplay",
+    "download_url": "https://github.com/developer9998/Bark/releases/download/1.5.2/Bark.dll"
+  },
 ]
