@@ -171,7 +171,7 @@
     "version": "1.0.0",
     "dependencies": ["GorillaInfoWatch", "BepInEx"],
     "git_path": "developer9998/GorillaRichPresence",
-    "install_location": "",
+    "install_location": "BepInEx/plugins",
     "group": "Cosmetic",
     "download_url": "https://github.com/developer9998/GorillaRichPresence/releases/latest/download/GorillaRichPresence.zip"
   },
@@ -183,5 +183,14 @@
     "git_path": "developer9998/Bark",
     "group": "Gameplay",
     "download_url": "https://github.com/developer9998/Bark/releases/download/1.5.2/Bark.dll"
+  },
+  {
+    "name": "Swingo Fan Shirt",
+    "author": "MrPickles",
+    "version": "1.5.2",
+    "dependencies": ["BepInEx", "Gorilla Shirts"],
+    "install_location": "BepInEx/plugins/GorillaShirts",
+    "group": "shirt",
+    "download_url": "https://cdn.discordapp.com/attachments/1470341777960599644/1489198339533832282/swingo_fan_shirt_1.shirt?ex=69d0dd08&is=69cf8b88&hm=285dfb9405c0042a5c1e1433ae25a51a8f4c1edcfa25d692ed594cffca8c0b33&"
   },
 ]
