@@ -190,7 +190,7 @@
     "version": "1.5.2",
     "dependencies": ["BepInEx", "Gorilla Shirts"],
     "install_location": "BepInEx/plugins/GorillaShirts",
-    "group": "shirt",
+    "group": "Shirt",
     "download_url": "https://cdn.discordapp.com/attachments/1470341777960599644/1489198339533832282/swingo_fan_shirt_1.shirt?ex=69d0dd08&is=69cf8b88&hm=285dfb9405c0042a5c1e1433ae25a51a8f4c1edcfa25d692ed594cffca8c0b33&"
   },
 ]
