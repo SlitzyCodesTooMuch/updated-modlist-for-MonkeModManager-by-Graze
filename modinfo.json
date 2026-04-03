@@ -216,15 +216,6 @@
     "author": "TitaniumGT",
     "version": "1.0.0",
     "dependencies": ["BepInEx", "Gorilla Shirts"],
-    "install_location": "BepInEx/plugins/GorillaShirts",
-    "group": "Shirt",
-    "download_url": "https://github.com/titaniumGT/Skull-Mask/releases/download/ttt/Skull.Mask.Hat.zip"
-  },
-  {
-    "name": "Skull Mask",
-    "author": "TitaniumGT",
-    "version": "1.0.0",
-    "dependencies": ["BepInEx", "Gorilla Shirts"],
     "git_path": "titaniumGT/Skull-Mask",
     "install_location": "BepInEx/plugins/GorillaShirts",
     "group": "Shirt",
