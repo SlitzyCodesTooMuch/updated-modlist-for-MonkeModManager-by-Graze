@@ -189,7 +189,7 @@
     "author": "MrPickles",
     "version": "1.0.0",
     "dependencies": ["BepInEx", "Gorilla Shirts"],
-    "install_location": "BepInEx/plugins/GorillaShirts",
+    "install_location": "BepInEx/plugins",
     "group": "Shirt",
     "download_url": "https://cdn.discordapp.com/attachments/1470341777960599644/1489198339533832282/swingo_fan_shirt_1.shirt?ex=69d0dd08&is=69cf8b88&hm=285dfb9405c0042a5c1e1433ae25a51a8f4c1edcfa25d692ed594cffca8c0b33&"
   },
@@ -198,7 +198,7 @@
     "author": "MrPickles",
     "version": "1.0.0",
     "dependencies": ["BepInEx", "Gorilla Shirts"],
-    "install_location": "BepInEx/plugins/GorillaShirts",
+    "install_location": "BepInEx/plugins",
     "group": "Shirt",
     "download_url": "https://cdn.discordapp.com/attachments/1470341777960599644/1489198339852341298/swingo_fan_shirt_2.shirt?ex=69d0dd08&is=69cf8b88&hm=8100917e3b3aecc92c77f86a4674b681ea6c2e6c9847fc11a40fba1318d14e45&"
   },
@@ -207,7 +207,7 @@
     "author": "Seveh",
     "version": "1.0.0",
     "dependencies": ["BepInEx", "Gorilla Shirts"],
-    "install_location": "BepInEx/plugins/GorillaShirts",
+    "install_location": "BepInEx/plugins",
     "group": "Shirt",
     "download_url": "https://cdn.discordapp.com/attachments/1483560660125220934/1483560811837263953/4AAC_Supporter.shirt?ex=69d0c9ec&is=69cf786c&hm=21131856afd8adef391a93773611de48911ea0b96fbe5c0d0e065023993d4346&"
   },
@@ -217,7 +217,7 @@
     "version": "1.0.0",
     "dependencies": ["BepInEx", "Gorilla Shirts"],
     "git_path": "titaniumGT/Skull-Mask",
-    "install_location": "BepInEx/plugins/GorillaShirts",
+    "install_location": "BepInEx/plugins",
     "group": "Shirt",
     "download_url": "https://github.com/titaniumGT/Skull-Mask/releases/download/ttt/Skull.Mask.Hat.zip"
   },
@@ -227,7 +227,7 @@
     "version": "1.0.0",
     "dependencies": ["BepInEx", "Gorilla Shirts"],
         "git_path": "titaniumGT/Scary-Mask",
-    "install_location": "BepInEx/plugins/GorillaShirts",
+    "install_location": "BepInEx/plugins",
     "group": "Shirt",
     "download_url": "https://github.com/titaniumGT/Scary-Mask/releases/download/v1.0.0/Scary.Mask.zip"
   },
@@ -236,8 +236,41 @@
     "author": "TitaniumGT",
     "version": "1.0.0",
     "dependencies": ["BepInEx", "Gorilla Shirts"],
-    "install_location": "BepInEx/plugins/GorillaShirts",
+    "install_location": "BepInEx/plugins/",
     "group": "Shirt",
     "download_url": "https://github.com/titaniumGT/Scary-Mask/releases/download/v1.0.0/Scary.Mask.zip"
+  },
+  {
+    "name": "Frozone Mod",
+    "author": "JosFa1",
+    "version": "1.0.3",
+    "dependencies": ["BepInEx", "Utilla"],
+    "git_path": "JosFa1/FrozoneMod",
+    "download_url": "https://github.com/JosFa1/FrozoneMod/releases/download/1.0.3/Frozone.dll",
+    "group": "Gameplay"
+  },
+  {
+    "name": "Gorilla Stats Board",
+    "author": "Unknown",
+    "version": "1.0.0",
+    "dependencies": ["BepInEx"],
+    "download_url": "https://github.com/SlitzyCodesTooMuch/Gorilla-Stats-Board/releases/download/1.0.0/GorillaServerStats.dll",
+    "group": "Tweaks / Tools"
+  },
+  {
+    "name": "Cookie Clicker",
+    "author": "Unknown",
+    "version": "1.0.0",
+    "dependencies": ["BepInEx"],
+    "download_url": "https://github.com/SlitzyCodesTooMuch/Cookie-clicker/releases/download/1/GorillaCookieClicker.dll",
+    "group": "Cosmetic"
+  },
+  {
+    "name": "Megamind Media",
+    "author": "Unknown",
+    "version": "1.0.0",
+    "dependencies": ["BepInEx"],
+    "download_url": "https://github.com/SlitzyCodesTooMuch/MegamindMedia/releases/download/1/MegamindMedia.dll",
+    "group": "Cosmetic"
   },
 ]
