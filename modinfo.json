@@ -1,11 +1,11 @@
 [
   {
-    "name": "Utilla",
-    "author": "Developer9998",
-    "version": "1.6.27",
+    "name": "Utilla [working]",
+    "author": "Seralyth",
+    "version": "1.7.0",
     "dependencies": ["BepInEx"],
-    "git_path": "developer9998/Utilla",
-    "download_url": "https://github.com/developer9998/Utilla-BepInEx/releases/download/1.6.27/Utilla.dll",
+    "git_path": "Seralyth/Utilla",
+    "download_url": "https://github.com/Seralyth/Utilla/releases/download/1.7.0/Utilla.dll",
     "group": "Core"
   },
   {
