@@ -187,10 +187,28 @@
   {
     "name": "Swingo Fan Shirt",
     "author": "MrPickles",
-    "version": "1.5.2",
+    "version": "1.0.0",
     "dependencies": ["BepInEx", "Gorilla Shirts"],
     "install_location": "BepInEx/plugins/GorillaShirts",
     "group": "Shirt",
     "download_url": "https://cdn.discordapp.com/attachments/1470341777960599644/1489198339533832282/swingo_fan_shirt_1.shirt?ex=69d0dd08&is=69cf8b88&hm=285dfb9405c0042a5c1e1433ae25a51a8f4c1edcfa25d692ed594cffca8c0b33&"
+  },
+  {
+    "name": "Swingo Fan Shirt 2",
+    "author": "MrPickles",
+    "version": "1.0.0",
+    "dependencies": ["BepInEx", "Gorilla Shirts"],
+    "install_location": "BepInEx/plugins/GorillaShirts",
+    "group": "Shirt",
+    "download_url": "https://cdn.discordapp.com/attachments/1470341777960599644/1489198339852341298/swingo_fan_shirt_2.shirt?ex=69d0dd08&is=69cf8b88&hm=8100917e3b3aecc92c77f86a4674b681ea6c2e6c9847fc11a40fba1318d14e45&"
+  },
+  {
+    "name": "4AAC",
+    "author": "Seveh",
+    "version": "1.0.0",
+    "dependencies": ["BepInEx", "Gorilla Shirts"],
+    "install_location": "BepInEx/plugins/GorillaShirts",
+    "group": "Shirt",
+    "download_url": "https://cdn.discordapp.com/attachments/1483560660125220934/1483560811837263953/4AAC_Supporter.shirt?ex=69d0c9ec&is=69cf786c&hm=21131856afd8adef391a93773611de48911ea0b96fbe5c0d0e065023993d4346&"
   },
 ]
